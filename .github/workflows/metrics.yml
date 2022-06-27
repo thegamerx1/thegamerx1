@@ -47,3 +47,4 @@ jobs:
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: ndrx.ml
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
