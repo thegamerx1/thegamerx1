@@ -11,7 +11,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    21 Languages
+                    20 Languages
                 </h2>
             </section>
             <section class="column">
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.69616234326764" height="8" fill="#6594b9"/>
-                    <rect mask="url(#languages-bar)" x="180.69616234326764" y="0" width="101.87786214867812" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="282.57402449194575" y="0" width="91.47639321716484" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="374.0504177091106" y="0" width="40.3641604120031" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="414.4145781211137" y="0" width="15.036533087536029" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="429.45111120864976" y="0" width="11.23533628875331" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="440.68644749740304" y="0" width="11.168034645715371" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="451.85448214311845" y="0" width="8.145517856881593" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="183.8078994640723" height="8" fill="#6594b9"/>
+                    <rect mask="url(#languages-bar)" x="183.8078994640723" y="0" width="103.63228305792812" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="287.44018252200044" y="0" width="93.05169224266615" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="380.4918747646666" y="0" width="41.05926458397515" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="421.55113934864175" y="0" width="11.428818056938411" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="432.97995740558014" y="0" width="11.360357424034742" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="444.3403148296149" y="0" width="8.285790400330992" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="452.6261052299459" y="0" width="7.373894770054129" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -57,12 +57,6 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Rust
@@ -78,6 +72,12 @@
                             <path fill="#a53b70" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Sass
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                 </div>
             </section>
@@ -154,7 +154,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.0625 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="19.375 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -173,7 +173,7 @@
                                     <span class="prefix">Master</span>
                                     polyglot
                                 </div>
-                                <div class="text">Using 19 different programming languages</div>
+                                <div class="text">Using 18 different programming languages</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
