@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.3560092268395" height="8" fill="#6594b9"/>
-                    <rect mask="url(#languages-bar)" x="185.3560092268395" y="0" width="98.3489840421301" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="283.7049932689696" y="0" width="92.2151168287767" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="375.92011009774626" y="0" width="42.21840355266337" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="418.1385136504096" y="0" width="11.455868603082317" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="429.5943822534919" y="0" width="10.82280656204179" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="440.4171888155337" y="0" width="10.415492926039708" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="450.83268174157337" y="0" width="9.167318258426544" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.86402517408789" height="8" fill="#6594b9"/>
+                    <rect mask="url(#languages-bar)" x="181.86402517408789" y="0" width="96.4961545314389" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="278.3601797055268" y="0" width="90.47784530069458" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="368.83802500622136" y="0" width="41.42303688204137" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="410.2610618882627" y="0" width="16.760500124427377" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="427.0215620126901" y="0" width="11.240047650531356" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="438.26160966322146" y="0" width="11.11947825907694" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.3810879222984" y="0" width="10.618912077701584" height="8" fill="#a52a22"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -57,15 +57,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#a86454" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Pug
+                        Lua
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#a52a22" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#a86454" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Jinja
+                        Pug
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -75,9 +75,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#a52a22" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Lua
+                        Jinja
                     </div>
                 </div>
             </section>
@@ -103,8 +103,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
-                                <text x="60" y="60" dominant-baseline="central">97</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
+                                <text x="60" y="60" dominant-baseline="central">99</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
