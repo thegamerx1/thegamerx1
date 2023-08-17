@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: main
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: github-metrics.svg
           # Your GitHub token
