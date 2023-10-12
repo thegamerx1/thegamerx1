@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="148.2864703936487" height="8" fill="#6594b9"/>
-                    <rect mask="url(#languages-bar)" x="148.2864703936487" y="0" width="78.28702172235087" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="226.57349211599958" y="0" width="77.46443929870989" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="304.0379314147095" y="0" width="58.05270702392766" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="362.09063843863714" y="0" width="37.347557613849375" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="399.43819605248655" y="0" width="36.30058440842431" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="435.73878046091085" y="0" width="15.112471055243137" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="450.8512515161539" y="0" width="9.14874848384607" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="148.1933997067814" height="8" fill="#6594b9"/>
+                    <rect mask="url(#languages-bar)" x="148.1933997067814" y="0" width="78.23788556808708" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="226.4312852748685" y="0" width="77.7001264864554" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="304.1314117613239" y="0" width="58.016821740338635" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="362.1482335016625" y="0" width="37.32797362949051" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="399.476207131153" y="0" width="36.277800668845046" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="435.754007799998" y="0" width="15.102985846932224" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="450.8569936469303" y="0" width="9.143006353069692" height="8" fill="#a86454"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -247,7 +247,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.04m out of 121m users</span>
+                                    <span class="gh">ranked 2.04m out of 114m users</span>
                                 </div>
                                 <div class="text">Published 24 public repositories</div>
                             </div>
