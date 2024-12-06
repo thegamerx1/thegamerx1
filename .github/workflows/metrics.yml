@@ -49,7 +49,7 @@ jobs:
           plugin_languages_skipped: thegamerx1
           plugin_lines: yes
           plugin_pagespeed: yes
-          plugin_pagespeed_url: ndrx.pro
+          plugin_pagespeed_url: darkity.top
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
 #       - name: second
 #         uses: lowlighter/metrics@latest
