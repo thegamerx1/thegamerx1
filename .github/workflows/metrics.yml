@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: main
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           # Your GitHub token
@@ -51,31 +51,3 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: darkity.top
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-#       - name: second
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: second.svg
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           base: ""
-#           config_order: anilist, music
-          
-#           plugin_anilist: yes
-#           plugin_anilist_medias: anime
-#           plugin_anilist_sections: watching
-#           plugin_anilist_limit: 2
-#           plugin_anilist_user: ${{ secrets.ANI_USER }}
-#           plugin_anilist_shuffle: true
-          
-#           plugin_music: yes
-#           plugin_music_provider: spotify
-#           plugin_music_token: ${{ secrets.SPOTY_TOKEN }}
-#           plugin_music_mode: top
-#           plugin_music_limit: 4
-#           plugin_music_time_range: short
-          
-          
-          
-          
-          
-          
-          
